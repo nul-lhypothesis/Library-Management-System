@@ -75,3 +75,5 @@ Meenakshi T.S
 B.Tech Computer Engineering, GCET  
 📅 Developed during my first internship  
 🔗 [View Project Repository](https://github.com/nul-lhypothesis/Library-Management-System)
+📄 **[Download Project Report (PDF)](https://github.com/nul-lhypothesis/Library-Management-System/blob/main/LMS%20Major%20Project(DSA).pdf)**
+
